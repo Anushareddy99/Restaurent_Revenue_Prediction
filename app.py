@@ -67,8 +67,7 @@ if __name__ == '__main__':
     st.markdown("CityGroup")
     CityGroup = st.radio(
         "What citygroup",
-        ('Big Cities', 'O
-        ther'))
+        ('Big Cities', 'Other'))
     st.markdown("Type")
     Type = st.radio(
         "What type",
